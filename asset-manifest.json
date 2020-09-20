@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.e75b8e03.chunk.css",
-    "main.js": "/me/static/js/main.e91ea9aa.chunk.js",
-    "main.js.map": "/me/static/js/main.e91ea9aa.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.490eddd9.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.490eddd9.js.map",
-    "static/js/2.f00508e2.chunk.js": "/me/static/js/2.f00508e2.chunk.js",
-    "static/js/2.f00508e2.chunk.js.map": "/me/static/js/2.f00508e2.chunk.js.map",
-    "index.html": "/me/index.html",
-    "precache-manifest.0c080522e89311a5cfb0809b834fd881.js": "/me/precache-manifest.0c080522e89311a5cfb0809b834fd881.js",
-    "service-worker.js": "/me/service-worker.js",
-    "static/css/main.e75b8e03.chunk.css.map": "/me/static/css/main.e75b8e03.chunk.css.map",
-    "static/js/2.f00508e2.chunk.js.LICENSE.txt": "/me/static/js/2.f00508e2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/me/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/personal-website-react/static/css/main.e75b8e03.chunk.css",
+    "main.js": "/personal-website-react/static/js/main.dd79d636.chunk.js",
+    "main.js.map": "/personal-website-react/static/js/main.dd79d636.chunk.js.map",
+    "runtime-main.js": "/personal-website-react/static/js/runtime-main.b56417b6.js",
+    "runtime-main.js.map": "/personal-website-react/static/js/runtime-main.b56417b6.js.map",
+    "static/js/2.f00508e2.chunk.js": "/personal-website-react/static/js/2.f00508e2.chunk.js",
+    "static/js/2.f00508e2.chunk.js.map": "/personal-website-react/static/js/2.f00508e2.chunk.js.map",
+    "index.html": "/personal-website-react/index.html",
+    "precache-manifest.c7d6ad11e930b8e7d841eac01c9a2a78.js": "/personal-website-react/precache-manifest.c7d6ad11e930b8e7d841eac01c9a2a78.js",
+    "service-worker.js": "/personal-website-react/service-worker.js",
+    "static/css/main.e75b8e03.chunk.css.map": "/personal-website-react/static/css/main.e75b8e03.chunk.css.map",
+    "static/js/2.f00508e2.chunk.js.LICENSE.txt": "/personal-website-react/static/js/2.f00508e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/personal-website-react/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.490eddd9.js",
+    "static/js/runtime-main.b56417b6.js",
     "static/js/2.f00508e2.chunk.js",
     "static/css/main.e75b8e03.chunk.css",
-    "static/js/main.e91ea9aa.chunk.js"
+    "static/js/main.dd79d636.chunk.js"
   ]
 }
